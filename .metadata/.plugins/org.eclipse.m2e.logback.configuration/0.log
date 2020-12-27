@@ -1,0 +1,57 @@
+2020-12-27 11:47:59,675 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-27 11:49:29,597 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:hr-worker:0.0.1-SNAPSHOT @ /home/eduardo/Projetos/workspace-microservice/hr-worker/pom.xml.
+2020-12-27 11:49:30,178 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:hr-payroll:0.0.1-SNAPSHOT @ /home/eduardo/Projetos/workspace-microservice/hr-payroll/pom.xml.
+2020-12-27 11:49:30,934 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-worker/src/main/java
+2020-12-27 11:49:30,935 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-worker/src/main/resources
+2020-12-27 11:49:30,935 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-worker/src/main/resources
+2020-12-27 11:49:30,939 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-worker/src/test/java
+2020-12-27 11:49:31,142 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-payroll/src/main/java
+2020-12-27 11:49:31,143 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-payroll/src/main/resources
+2020-12-27 11:49:31,143 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-payroll/src/main/resources
+2020-12-27 11:49:31,144 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-payroll/src/test/java
+2020-12-27 11:49:31,622 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 4 sec
+2020-12-27 11:49:33,332 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:49:33,338 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:49:33,363 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:49:33,372 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:49:33,372 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:49:34,849 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:49:34,849 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:49:34,862 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:49:34,865 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:49:34,865 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-worker/src/test/resources
+2020-12-27 11:50:03,882 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:50:03,883 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:50:03,883 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:50:03,885 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:50:03,885 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:50:03,902 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:50:03,903 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:50:03,903 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:50:03,904 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:50:03,904 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-worker/src/test/resources
+2020-12-27 11:51:19,781 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:51:19,782 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:51:19,783 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:51:19,785 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:51:19,785 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:52:24,520 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:52:24,521 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:52:24,521 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:52:24,523 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:52:24,523 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:52:59,127 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:52:59,127 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:52:59,128 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:52:59,130 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:52:59,130 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:56:33,134 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:56:33,135 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:56:33,135 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:56:33,139 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:56:33,139 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources
+2020-12-27 11:57:44,058 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:57:44,062 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-27 11:57:44,063 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-27 11:57:44,065 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:57:44,065 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/eduardo/Projetos/workspace-microservice/hr-payroll/src/test/resources

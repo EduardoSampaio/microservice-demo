@@ -1,0 +1,5 @@
+package com.microservice.payroll.resources;
+
+public class PaymentResources {
+
+}
